@@ -46,7 +46,7 @@ The following tools were used in the construction of the project:
 
 ## Layout
 
-![screencapture-localhost-8080-2022-02-21-21_15_13](https://user-images.githubusercontent.com/78514869/155046467-f624cf16-d1f0-4fd7-85c6-3b76d09e181a.png)
+![screencapture-localhost-8080-2022-02-23-21_52_36](https://user-images.githubusercontent.com/78514869/155437075-553c8af4-36d9-4a64-8825-b1f4ca497ae6.png)
 
 ## Getting Started
 
@@ -64,8 +64,8 @@ The project can be built with npm or yarn, so choose one of the approach bellow 
 * To download the project follow the instructions bellow:
 
 ```
-1. git clone https://github.com/franciscovinicios/ignite-desafio-conceitos-do-react.git
-2. cd ignite-desafio-conceitos-do-react
+1. git clone https://github.com/franciscovinicios/ignite-desafio-componentizando-a-aplicacao
+2. cd ignite-desafio-componentizando-a-aplicacao
 ```
 
 * Install the dependencies and start the project:
@@ -73,6 +73,7 @@ The project can be built with npm or yarn, so choose one of the approach bellow 
 ```
 3. yarn install
 4. yarn dev
+
 ```
 
 or
@@ -80,6 +81,16 @@ or
 ```
 3. npm install
 4. npm dev
+```
+
+* Running Fake API com JSON Server
+
+```
+yarn server 
+
+or
+
+npm server
 ```
 
 
