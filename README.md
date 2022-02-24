@@ -1,4 +1,6 @@
-![to do](https://user-images.githubusercontent.com/78514869/155045010-cdcfd8b8-d546-4985-8b17-6e0a00928100.png)
+<div align="center">
+   <img  src="https://user-images.githubusercontent.com/78514869/155436253-962bf819-7af1-4cc0-8364-a8896d98ea04.png">
+</div>
 
 <h3 align="center">
     Application where your main objective is to refactor a page to list movies according to genre
