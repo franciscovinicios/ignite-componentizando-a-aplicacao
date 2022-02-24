@@ -12,6 +12,7 @@
 
 
 <p align="center">
+ <a href="#challenge-description">Challenge description</a> • 
  <a href="#tech-stack">Tech Stack</a> • 
  <a href="#layout">Layout</a> • 
  <a href="#getting-started">Getting Started</a> • 
